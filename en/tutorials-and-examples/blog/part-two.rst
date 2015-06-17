@@ -15,6 +15,7 @@ specific table and go in **src/Model/Table**. The file we'll be creating will
 be saved to **src/Model/Table/ArticlesTable.php**. The completed file should
 look like this::
 
+    <?php
     // src/Model/Table/ArticlesTable.php
 
     namespace App\Model\Table;
